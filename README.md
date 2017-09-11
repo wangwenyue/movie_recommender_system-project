@@ -24,8 +24,8 @@ I preprocessed the original dataset in two steps:
 * Build co-occurrence matrix
 * Normalize the co-occurrence matrix
 * Build rating matrix
-Multiply co-occurrence matrix and rating matrix
-Generate recommendation list
+* Multiply co-occurrence matrix and rating matrix
+
 
 
 final result:
